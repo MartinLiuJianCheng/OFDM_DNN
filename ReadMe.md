@@ -2,13 +2,10 @@
 
 ### The codes have been tested on Ubuntu 16.04 + tensorflow 1.1 + Python 2.7 (代码的一个运行环境)
 
-### 需要的配置工具：
+### Tensorflow + Winner Channel Model (需要的配置工具)
 
- 1. Tensorflow 
- 2. Winner Channel Model
+### cd ./DNN_Detection + python Example.py  怎么运行代码： 
 
-### 怎么运行代码： 
 
-cd ./DNN_Detection
 
-python Example.py  
+
